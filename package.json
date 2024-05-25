@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visheshnewton/nodejs-oracle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visheshnewton/nodejs-oracle/issues"
+  },
+  "homepage": "https://github.com/visheshnewton/nodejs-oracle#readme",
+  "dependencies": {
+    "oracledb": "^6.5.1"
+  }
+}
